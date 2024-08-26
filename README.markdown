@@ -1,3 +1,5 @@
+(This code is forked from the gem [tween](https://rubygems.org/gems/tween). All the appreciations to the author)
+
 # Tween
 
 Tween is a library for doing fluid motion in Ruby.  It's primarily a port of
